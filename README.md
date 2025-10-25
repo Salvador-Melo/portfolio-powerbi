@@ -66,7 +66,7 @@ As versões disponibilizadas aqui são **de domínio público**, ilustrando a ap
 |------------|--------------|
 | Hub Analítico – MEC Educação e Saúde | [hub](https://github.com/Salvador-Melo/portfolio-powerbi/blob/Salvador-Melo/Hub%20Anal%C3%ADtico%20%E2%80%93%20MEC%20%20Educa%C3%A7%C3%A3o%20em%20Sa%C3%BAde.png)|
 | Relatório Residências Médicas| [Residências](https://github.com/Salvador-Melo/portfolio-powerbi/blob/Salvador-Melo/Relat%C3%B3rio-resid%C3%AAncia%20m%C3%A9dica.png) |
-| Relatório Supervisão | [Supervisão](https://github.com/Salvador-Melo/portfolio-powerbi/blob/Salvador-Melo/Relat%C3%B3rio-resid%C3%AAncia%20em%20%C3%A1rea%20profissional%20de%20sa%C3%BAde.png)](https://github.com/Salvador-Melo/portfolio-powerbi/blob/Salvador-Melo/Relat%C3%B3rio-supervis%C3%A3o%20mais%20m%C3%A9dicos.png) |
+| Relatório Supervisão | [Supervisão](https://github.com/Salvador-Melo/portfolio-powerbi/blob/Salvador-Melo/Relat%C3%B3rio-supervis%C3%A3o%20mais%20m%C3%A9dicos.png)|
 | Relatório PRODEPS | [PRODEPS](https://github.com/Salvador-Melo/portfolio-powerbi/blob/Salvador-Melo/Relat%C3%B3rio%20Prodeps.png) |
 
 > As imagens representam versões públicas e resumidas dos relatórios originais, respeitando confidencialidade institucional e direitos de uso.
